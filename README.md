@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ### Interest
 
-* Become a full-stack developer
 * Deep dive into cloud native devops
+* Become a full-stack developer
 
 ### Strength
 
