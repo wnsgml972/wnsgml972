@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 * ✨ Good at adapting to new challenges
 * 👯 A supportive team player
 
+<br/>
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wnsgml972.github.io/)](https://wnsgml972.github.io/)
