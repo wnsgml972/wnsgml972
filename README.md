@@ -15,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### JunHee Kim 👋
+
+* software engineer / web developer
+
+### Interest
+
+* Become a full-stack developer
+* Deep dive into cloud native devops
+
+### Strength
+
+* ✨ Good at adapting to new challenges
+* 👯 A supportive team player
+
