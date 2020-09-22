@@ -28,12 +28,14 @@ Here are some ideas to get you started:
 
 ### JunHee Kim 👋
 
-* software engineer / web developer
+* backend software engineer / web developer
 
 ### Interest
 
 * Deep dive into cloud native devops
+<!--
 * Become a full-stack developer
+-->
 
 ### Strength
 
