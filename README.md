@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### JunHee Kim 👋
 
-* backend software engineer / web developer
+* Backend software engineer | Web developer
 
 ### Interest
 
