@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 -->
 
-### JunHee Kim 👋
+### JunHee Kim (Ledger) 👋
 
 * Backend software engineer | Web developer
 
