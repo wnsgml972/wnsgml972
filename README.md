@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ### Interest
 
 * Deep dive into cloud native devops
+* Kotlin
 <!--
 * Become a full-stack developer
 -->
