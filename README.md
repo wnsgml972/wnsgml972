@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 * Backend software engineer | Web developer
 
-### Interest
+### 🌱 Interest
 
 * Deep dive into cloud native devops
 * Kotlin
@@ -38,12 +38,14 @@ Here are some ideas to get you started:
 * Become a full-stack developer
 -->
 
-### Strength
+### ⚡ Strength
 
 * ✨ Good at adapting to new challenges
 * 👯 A supportive team player
 
 <br/>
+
+### 💬 Ask me about ...
 
 <div align=center>
   
