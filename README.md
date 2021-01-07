@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 🌱 Interest
 
 * Deep dive into cloud native devops
-* Kotlin
+* kotlin, spring webflux
 <!--
 * Become a full-stack developer
 -->
