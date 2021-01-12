@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 
 * Backend software engineer | Web developer
 
+<!--
 ### 🌱 Interest
 
 * Deep dive into cloud native devops
 * kotlin, spring webflux
-<!--
+
 * Become a full-stack developer
 -->
 
